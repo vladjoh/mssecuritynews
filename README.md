@@ -12,9 +12,10 @@ It uses both official RSS feeds and custom-generated ones to ensure wide coverag
 
 ## 🛠 Setup Guide (Dataverse import method, I'll add legacy method later)
 
-### Prerequisites
+### Prerequisites (Dataverse method)
 
 - A Microsoft tenant    
+- At least Business Premium license 
 - A Dataverse database, read more about prerequisites here for Dataverse here [https://learn.microsoft.com/en-us/power-platform/admin/create-database?tabs=new](https://learn.microsoft.com/en-us/power-platform/admin/create-database?tabs=new)
 
 
