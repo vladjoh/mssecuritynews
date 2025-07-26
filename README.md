@@ -17,7 +17,7 @@ It uses both official RSS feeds and custom-generated ones to ensure wide coverag
 - A Microsoft tenant    
 - At least Business Premium license 
 - At least Power Platform admin role to create databse (if it dont exist) 
-- A Dataverse database, read more about prerequisites here for Dataverse here [https://learn.microsoft.com/en-us/power-platform/admin/create-database?tabs=new](https://learn.microsoft.com/en-us/power-platform/admin/create-database?tabs=new)
+- A Dataverse database. Read more about prerequisites for Dataverse here [https://learn.microsoft.com/en-us/power-platform/admin/create-database?tabs=new](https://learn.microsoft.com/en-us/power-platform/admin/create-database?tabs=new)
 
 
 📦 Import Method
