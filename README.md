@@ -3,9 +3,10 @@
 **mssecuritynews** is a set of Power Automate flows that fetch the latest Microsoft Security News from various sources directly into your Teams chat or channels. It aggregates content from:
 
 - Microsoft Tech Community blogs  
-- Microsoft Learn "What's New" feed  
+- Microsoft Learn "What's New" pages (some is not working properly yet) 
 - Official Microsoft Security YouTube channels  
-- Microsoft Security Twitter/X accounts  
+- Microsoft Security Twitter/X accounts
+- Roadmap pages both M365 abd Azure
 
 It uses both official RSS feeds and custom-generated ones to ensure wide coverage.
 
@@ -13,9 +14,8 @@ It uses both official RSS feeds and custom-generated ones to ensure wide coverag
 
 ### Prerequisites
 
-- A Microsoft tenant  
-- Power Automate access  
-- A Dataverse database
+- A Microsoft tenant    
+- A Dataverse database, read more about prerequisites here for Dataverse here [https://learn.microsoft.com/en-us/power-platform/admin/create-database?tabs=new](https://learn.microsoft.com/en-us/power-platform/admin/create-database?tabs=new)
 
 
 📦 Import Method
