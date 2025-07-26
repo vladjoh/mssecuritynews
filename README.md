@@ -13,7 +13,7 @@ It uses both official RSS feeds and custom-generated ones to ensure wide coverag
 
 ### Prerequisites
 
-- A Microsoft 365 tenant  
+- A Microsoft tenant  
 - Power Automate access  
 - A Dataverse database
 
