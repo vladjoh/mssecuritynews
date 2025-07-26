@@ -6,7 +6,7 @@
 - Microsoft Learn "What's New" pages (some is not working properly yet) 
 - Official Microsoft Security YouTube channels  
 - Microsoft Security Twitter/X accounts
-- Roadmap pages both M365 abd Azure
+- Roadmap pages both M365 and Azure
 
 It uses both official RSS feeds and custom-generated ones to ensure wide coverage.
 
