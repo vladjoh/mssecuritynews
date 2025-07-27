@@ -16,14 +16,14 @@ It uses both official RSS feeds and custom-generated ones to ensure wide coverag
 
 - A Microsoft tenant    
 - At least Business Premium license 
-- At least Power Platform admin role to create databse (if it dont exist) 
+- At least Power Platform admin role to create database (if it dont exist) 
 - A Dataverse database. Read more about prerequisites for Dataverse here [https://learn.microsoft.com/en-us/power-platform/admin/create-database?tabs=new](https://learn.microsoft.com/en-us/power-platform/admin/create-database?tabs=new)
 
 
 📦 Import Method
 
 1. Go to [https://powerautomate.com](https://powerautomate.com)
-2. Navigate to **My Flows → Import → Import Solution**
+2. Navigate to **My Flows → Import → Import Solution (Dataverse)**
    - ⚠️ If you don’t have a Dataverse database, Power Automate will prompt you to create one. Follow the instructions and wait ~5 minutes before proceeding.
 3. Go to **Solutions → Import Solution**
    - Upload the provided `.zip` file that contains the flows and configurations.
