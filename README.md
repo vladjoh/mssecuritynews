@@ -10,6 +10,9 @@
 
 It uses both official RSS feeds and custom-generated ones to ensure wide coverage.
 
+<img width="1094" height="821" alt="image" src="https://github.com/user-attachments/assets/525142cf-d3de-48d8-a642-30f7929ebe70" />
+
+
 ## 🛠 Setup Guide (Dataverse import method, I'll add legacy method later)
 
 ### Prerequisites (Dataverse method)
